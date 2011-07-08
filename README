@@ -1,0 +1,28 @@
+*****INTRO*****
+The purpose of this project is to create the basic frame work for a groovy
+grails based content management system. I will use grails scaffolding ability
+to demonstrate how easy crud functionality is compared to struts/spring/beans.
+
+*****Security*****
+-Spring Security Core
+
+*****Social*****
+-Comments
+-Voting
+-Like/Unlike
+-Profiles
+-Articals
+
+*****Management*****
+-Dynamic form creation? (will be hard and dont know about usability)
+-User Management. Want to try and intergrate this with already create
+ user tables. This will allow the CMS to be intergrated into already 
+ functional sites. (Less I have to worry about security / easier to
+ intergrate) //Wow I just said intergrate a lot.
+-etc.....
+
+Can be a strong system if created properly. May be able to turn it into a
+type of social networking generation framework. Allow any entry level developer
+to create there own social network in minutes.
+
+"Only live once... Just trying to see as much as I can."
